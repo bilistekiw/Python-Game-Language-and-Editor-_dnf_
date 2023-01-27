@@ -32,7 +32,7 @@ def main():
         Engine = Tk()
         Engine.geometry("1000x800")
         Engine.title("Scpycon 1.0.0")
-        Engine.iconbitmap(Engine, default = "C:\\Users\\tekiw\\Desktop\\GameEngine\\0.ico")#?#?#?#
+        Engine.iconbitmap(Engine, default = "0.ico")#?#?#?#
         
         
         def sae():

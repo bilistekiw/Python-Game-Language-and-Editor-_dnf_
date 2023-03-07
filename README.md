@@ -11,8 +11,13 @@
 更新                     Log
 
 1.0.0Update
+
 New
+
 1.0.1aUpdate
+
 Bug Report
+
 Dev mode
+
 Windows mode
